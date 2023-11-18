@@ -2,4 +2,6 @@
 0. inital commit
 1. updated README and STEPS in bug fix
 2. added dank meme to main
-3. update steps further in bug-fix/add to main
+3. update steps further in bug-fix
+4. added to main
+5. created bug-fix-experiemental branch
